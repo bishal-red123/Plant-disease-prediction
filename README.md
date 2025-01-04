@@ -12,7 +12,8 @@ This project focuses on developing a machine learning model to predict plant dis
 
 **💡 Tech Stack:**  
 - Python (TensorFlow, PyTorch, OpenCV)  
-- Streamlit for web deployment  
+- Streamlit for web deployment
+- frontend.py is the file
 - Dataset sourced from public agricultural repositories  
 
 **🚀 How It Works:**  
