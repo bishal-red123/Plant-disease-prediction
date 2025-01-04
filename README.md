@@ -4,6 +4,8 @@
 ### 🌱 Plant Disease Prediction Model 🌾  
 This project focuses on developing a machine learning model to predict plant diseases based on image data and environmental factors. The goal is to provide farmers and agricultural professionals with a tool to detect diseases early, enabling faster intervention and healthier crop yields.  
 
+Try The model : http://localhost:8501/
+
 **🔧 Key Features:**  
 - **Image-Based Detection:** Utilizes computer vision techniques to classify plant diseases from leaf images.  
 - **Machine Learning Models:** Trained on diverse datasets to improve accuracy and generalization.  
